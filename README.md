@@ -95,6 +95,8 @@ Since the nature and needs of Tanzania can be so dynamic,  predictive modeling a
 
 For this reason we produded an app. This app can be used by on the ground non-profit workers to pay closer attention to dynamic trends in climatological and infrastructural data as it pertains to Tanzania region by region. Accessibility and transparency of information will be key to improving the lives of Tanzanians.
 
+https://share.streamlit.io/jpetersen626/tanzania-group-project/main/app-streamlit.py
+
 ![ ](./visualizations/app1.png)
 ![ ](./visualizations/app2.png)
 
