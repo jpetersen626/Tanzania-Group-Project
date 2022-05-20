@@ -41,8 +41,8 @@ indicators_with_underscores = []
 
 # help from https://www.geeksforgeeks.org/how-to-iterate-over-files-in-directory-using-python/
 current_dir = dirname(__file__)
-for file in listdir(current_dir + '/maps_kalebts/'):
-    f = join(current_dir + '/maps_kalebts/', file)
+for file in listdir(current_dir + '/streamlit/maps_kalebts/'):
+    f = join(current_dir + '/streamlit/maps_kalebts/', file)
     if isfile(f) and 'tz_map' in file:
         indicators_with_underscores.append(file)
 
@@ -69,7 +69,7 @@ if (page=='Country'):
     indicator_button = st.selectbox('Choose indicator', tuple(indicators.keys()))
     
     # this is the folium map
-    components.v1.html(open(current_dir+'/maps_kalebts/'+indicators[indicator_button]).read(), height=600)
+    components.v1.html(open(current_dir+'/streamlit/maps_kalebts/'+indicators[indicator_button]).read(), height=600)
 
     # whitespace
     st.text(' ')
