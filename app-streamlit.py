@@ -26,7 +26,7 @@ def read_all_data():
 
 
     return {
-        "sb_water_df": pd.read_csv('./data/cleaned data/geo_func_precip_util_joined.csv'),
+        "sb_water_df": pd.read_csv('./data/cleaned_data/geo_func_precip_util_joined.csv'),
         "st_functional_pumps": st_functional_pumps,
         "mixed_tz": mixed_tz,
         "water_pumps": water_pumps,
