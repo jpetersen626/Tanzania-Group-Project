@@ -4,7 +4,7 @@
 #### Cody Can, Sb Fuller, Jackie Petersen, Kaleb Tsegaye
 ---
 
-### Problem Statement
+## Problem Statement
 
 In Tanzania, clean drinking water is accessible for only 55% of the population and improved sanitation is available for only 15% of the population. The median age of the Tanzanian population is only 17.7 years of age, with a life expectancy of 62.6 years of age. Improved sanitation and access to water could vastly improve the life expectancies of Tanzanians.
 
@@ -15,7 +15,7 @@ For our group project we will be focusing on pumps and water points in Tanzania,
 <br>
 
 
-### Table of Contents
+## Table of Contents
 
 |#|Folder|Notebook|Description|
 |---|---|---|---|
@@ -38,7 +38,7 @@ For our group project we will be focusing on pumps and water points in Tanzania,
 |Districts_Shapefiles_2019|Tanzania shapefiles as of 2019|Tanzania National Bureau of Statistics|https://www.nbs.go.tz/index.php/en/census-surveys/gis/568-tanzania-districts-shapefiles-2019|
 
 
-### Software Requirements
+## Software Requirements
 
 1. Pandas
 2. Matplotlib
@@ -51,7 +51,7 @@ For our group project we will be focusing on pumps and water points in Tanzania,
 9. Contextily
 10. Imblearn
 
-### Summary of Analysis
+## Summary of Analysis
 
 
 ![ ](./visualizations/geo_wpt_nonfunc.png)
@@ -84,7 +84,7 @@ For our group project we will be focusing on pumps and water points in Tanzania,
 
 
 
-### Conclusions and Recommendations
+## Conclusions and Recommendations
 There is no “one size fits all” approach to the needs of Tanzania.
 
 Some regions have much more water availability as precipitation than others while some regions have greater variance from year to year in precipitation than others. Different regions have different infrastuctural demands and capacityies and all of this is pretty dynamic from year to year given all of the non-profit intervention in the area. 
@@ -100,7 +100,7 @@ https://share.streamlit.io/jpetersen626/tanzania-group-project/main/app-streamli
 ![ ](./visualizations/app1.png)
 ![ ](./visualizations/app2.png)
 
-### Sources
+## Sources
 
 1. https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/
 2. https://climateknowledgeportal.worldbank.org/download-data
