@@ -24,7 +24,7 @@ For our group project we will be focusing on pumps and water points in Tanzania,
 |3|code|03_Geopandas EDA|Geopandas EDA with Climate & Precipitation dataset, 2020 Shapefiles, 2012 Tanzanian Census dataset, & Water Pump dataset|
 |4|code|04_Modeling_Conclusion|Modeling with various kinds for predicting water pump functionality|
 
-### The Data
+## The Data
 
 |Dataset|Description|Source|Link|
 |---|---|---|---|
